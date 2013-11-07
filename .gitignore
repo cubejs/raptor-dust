@@ -1,0 +1,10 @@
+.DS_Store
+/work
+/node_modules
+*.configbean
+/.vagrant
+/test.local.sh
+/target
+/.local
+*.orig
+*.sublime-workspace
