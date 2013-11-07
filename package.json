@@ -17,7 +17,7 @@
     "url": "https://github.com/cubejs/raptor-dust.git"
   },
   "scripts": {
-    "test": "node_modules/.bin/jasmine-node --verbose test/ && node_modules/.bin/jshint lib"
+    "test": "node_modules/.bin/jshint lib"
   },
   "author": "Patrick Steele-Idem <psteeleidem@ebay.com>",
   "contributors": [
