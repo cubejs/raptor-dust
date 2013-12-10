@@ -27,13 +27,14 @@
   "dependencies": {},
   "devDependencies": {
     "jshint": "~2.3.0",
-    "mocha": "~1.14.0",
+    "mocha": "~1.15.1",
     "chai": "~1.8.1",
-    "raptor": "~2.5.4-SNAPSHOT.1383802150087"
+    "raptor": "~2.6.4"
   },
   "license": "Apache License v2.0",
   "main": "lib/index.js",
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
-  }
+  },
+  "ebay": {}
 }
